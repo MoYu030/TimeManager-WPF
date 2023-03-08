@@ -2,7 +2,7 @@
 ![image](https://github.com/MoYu030/TimeManager-WPF/blob/main/TimeManager/Resources/20230308.png)
 # 提示
 所有的时间都在文件[<a href="https://github.com/MoYu030/TimeManager-WPF/blob/main/TimeManager/Model/TimeManage.cs">TimeManage.cs</a>]中设置
-#建议
+# 建议
 ![image](https://github.com/MoYu030/TimeManager-WPF/blob/main/TimeManager/Resources/115031.png)<br>
 这四个倒计时，我是把xml代码复制粘贴了四份，代码如下：<br>
 ![image](https://github.com/MoYu030/TimeManager-WPF/blob/main/TimeManager/Resources/213123123.png)<br>
