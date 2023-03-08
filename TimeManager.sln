@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeManager", "TimeManager\TimeManager.csproj", "{92F1589C-5549-4F72-A335-382DBE4C84BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F1589C-5549-4F72-A335-382DBE4C84BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F1589C-5549-4F72-A335-382DBE4C84BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F1589C-5549-4F72-A335-382DBE4C84BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F1589C-5549-4F72-A335-382DBE4C84BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C681974-C1AD-4DDF-BEC7-92EA6C6E1F88}
+	EndGlobalSection
+EndGlobal

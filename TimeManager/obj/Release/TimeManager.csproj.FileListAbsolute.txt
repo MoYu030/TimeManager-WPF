@@ -1,0 +1,72 @@
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\TimeManager.exe.config
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\TimeManager.exe
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\TimeManager.pdb
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\CommonServiceLocator.dll
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.dll
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\System.Windows.Interactivity.dll
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.pdb
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.xml
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\LH\Desktop\TimeManager\TimeManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.csproj.AssemblyReference.cache
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\Resources\MainResources.baml
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\App.g.cs
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager_MarkupCompile.cache
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager_MarkupCompile.lref
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\App.baml
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.g.resources
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.Properties.Resources.resources
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.csproj.GenerateResource.cache
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.csproj.CoreCompileInputs.cache
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.csproj.CopyComplete
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.exe
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\TimeManager.pdb
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\MainWindow.g.cs
+C:\Users\LH\Desktop\TimeManager\TimeManager\obj\Release\MainWindow.baml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\TimeManager.exe.config
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\TimeManager.exe
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\TimeManager.pdb
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\CommonServiceLocator.dll
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.dll
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.Extras.dll
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.Platform.dll
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\Microsoft.Xaml.Behaviors.dll
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\Newtonsoft.Json.dll
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\System.Windows.Interactivity.dll
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.pdb
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.xml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.Extras.xml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\GalaSoft.MvvmLight.Platform.xml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\Microsoft.Xaml.Behaviors.pdb
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\Microsoft.Xaml.Behaviors.xml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\bin\Release\Newtonsoft.Json.xml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.csproj.AssemblyReference.cache
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\Resources\MainResources.baml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\MainWindow.g.cs
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\App.g.cs
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager_MarkupCompile.cache
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager_MarkupCompile.lref
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\App.baml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\MainWindow.baml
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.g.resources
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.Properties.Resources.resources
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.csproj.GenerateResource.cache
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.csproj.CoreCompileInputs.cache
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.csproj.CopyComplete
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.exe
+C:\Users\LH\Desktop\新建文件夹 (3)\WPF\TimeManager3.0\TimeManager\obj\Release\TimeManager.pdb
